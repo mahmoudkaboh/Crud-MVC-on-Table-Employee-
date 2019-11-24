@@ -1,0 +1,253 @@
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.dll.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.AppContext.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Console.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Antlr3.Runtime.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Newtonsoft.Json.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Helpers.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Mvc.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Optimization.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Razor.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\WebGrease.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Helpers.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Mvc.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Optimization.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Razor.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Newtonsoft.Json.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Antlr3.Runtime.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\bin\ConstructionSystem.dll.config
+F:\تأجيل\lastDB\ConstructionSystem\bin\ConstructionSystem.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\ConstructionSystem.pdb
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csc.exe
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csc.exe.config
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csc.rsp
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csi.exe
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csi.exe.config
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\csi.rsp
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.AppContext.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Console.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\vbc.exe
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\vbc.exe.config
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\vbc.rsp
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+F:\تأجيل\lastDB\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\تأجيل\lastDB\ConstructionSystem\bin\Antlr3.Runtime.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\EntityFramework.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Newtonsoft.Json.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\Owin.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Helpers.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Http.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Mvc.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Optimization.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Razor.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\WebGrease.dll
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Helpers.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Mvc.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Optimization.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Razor.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Newtonsoft.Json.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Antlr3.Runtime.pdb
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Http.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\EntityFramework.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\تأجيل\lastDB\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+F:\تأجيل\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.addDataAnnotationPhone.resources
